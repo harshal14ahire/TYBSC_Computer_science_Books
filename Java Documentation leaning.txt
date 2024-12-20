@@ -1,0 +1,88 @@
+Java Documentation:
+1)Java Standared Edition
+   ava SE lets you develop and deploy Java       applications on desktops and servers
+2)java Embededed Edition
+java emnedded d resource-constrained devices like wireless modules for M2M, industrial control, smart-grid infrastructure, environmental sensors and tracking, and more.
+
+Enterprise Edition (Java EE):
+Java EE (Jakarta EE) is a powerful platform for building enterprise-level applications that require scalability, security, and reliability. It provides a comprehensive set of tools and frameworks to handle the complexities of modern enterprise software development, making it a popular choice for developers working on large-scale applications.
+
+
+objects:
+An object is a software bundle of related state and behavior
+Objects share two characteristics: they all have state and behavior. Dogs have state (name, color, breed, hungry)
+state is related to Attributes of That Class
+Behavior is a characteristics of that class 
+ 
+Software objects consist of state and related behavior. An object stores its state in fields (variables in some programming languages) and exposes its behavior through methods (functions in some programming languages).
+
+Bundling code into individual software objects provides a number of benefits, including:
+Modularity
+Information-hiding:
+Code re-use 
+Pluggability and debugging ease:
+
+Class:
+A class is the blueprint from which individual objects are created.class is user defined data type which implement enscapsulation object oriented Approch
+
+Inheritance:
+Object-oriented programming allows classes to inherit commonly used state and behavior from other classes.
+
+Interfaces:
+
+An interface in Java is a blueprint of a class that contains static constants and abstract methods.
+
+In Java, an interface is a reference type, similar to a class, that can contain only constants, method signatures, default methods, static methods, and nested types.
+
+Key Characteristics of Interfaces
+1.Abstract Methods
+2.Multiple Inheritance. one class Implemetems multiple interfaces
+3.No Instance Fields: All fields declare in interface is Implicitly public,static ,final
+4.Access Modifiers: all methods by implicitly 
+5.Default Methods: Java 8 introduced the concept of default methods in interfaces.
+6.Functional Interfaces: Java 8 introduced functional interfaces. These are interfaces with a single abstract method, and they can be used with lambda expressions and method references.
+
+uses of interfaces
+
+1.Define a Contract for Implementing Classes: 
+2.Multiple inheritance
+2.Loose coupling : 
+3.Abstraction
+4.Polymorphism
+5.Dependency Injection:
+6.Defining API
+
+
+Interfaces in Java are a powerful tool for defining contracts, promoting loose coupling, achieving polymorphism, and enabling multiple inheritances. They form the foundation for many Java design patterns and application architectures. By understanding and using interfaces effectively, developers can write more modular, flexible, and maintainable code.
+
+
+
+What is a Package?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+key Value Databases:
+Redis:Remote Directory Server
+Redis (Remote Dictionary Server) is an open-source, in-memory key-value store that functions as a database, cache, and message broker. It supports various data structures like strings, lists, sets, hashes, and more, offering extremely fast read and write operations
+
+n-Memory Storage: Redis primarily stores data in memory, which allows for extremely fast read and write operations. This makes it ideal for caching
+
+
+
+MongoDB is a document-oriented NoSQL database system that provides high scalability, flexibility, and performance
+Collection
+Collection is a group of documents.
+Collection is equivalent to RDBMS table.
+
+introduction to NOSQL
+
+NoSQL is a type of database management system (DBMS) that is designed to handle and store large volumes of unstructured and semi-structured data.
+
+NoSQL databases are generally classified into four main categories:
+
+1.Document Database 
+2.Key-Value Database
+3.Column Family Database
+4.Graph Database
+
+
